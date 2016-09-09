@@ -13,9 +13,12 @@ public class main {
 
         System.out.println("Spelare 1 skriv  in ditt din koordinat: ");
         */
-
+       gameboard(array);
     }
-    public static void gameboard(char[]a){
+    public static void gameboard(char[]array){
+        System.out.println("-" + "|" + "a" + "|" + "b" + "|" + "c" + "|");
+        for(int i = 0; i < array.length; i++){
 
+        }
     }
 }
