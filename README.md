@@ -4,6 +4,7 @@
 * Skapade filen
 * Skapade char kordinater
 * Skapa Spelplanen
+* Skapat om koordinaterna till en Array
 
 #TODO 
 * skapa dragsystem
