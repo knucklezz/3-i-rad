@@ -2,8 +2,10 @@
 
 #Logg
 * Skapade filen
-*
+* Skapade char kordinater
+* Skapa Spelplanen
 
 #TODO 
-* Ska använda mig av Int
-* 
+* skapa dragsystem
+* gör så att spelet klarar av att spelaren skriver fel
+* Säg vilken spelare som har vunnit
